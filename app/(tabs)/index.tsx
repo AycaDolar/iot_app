@@ -6,7 +6,7 @@ interface UserData {
   id: number;
   name: string;
   date: string;
-  check: boolean; // Assuming check is a boolean
+  check: boolean; 
 }
 
 const App = () => {
